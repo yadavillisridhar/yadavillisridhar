@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Sridhar Yadavilli @yadavillisridhar
-- 👀 I’m interested in Java tech stack ...
-- 🌱 I'm a daily learner...
 - 📫 reach me @ https://twitter.com/Iam_SridharY | yadavillisridhar@gmail.com
 
 <!---
